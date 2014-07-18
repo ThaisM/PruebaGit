@@ -8,10 +8,6 @@
  *
  * @author miki
  */
-public class helloWorld {
+public class NewClass {
     
-    //probando
-    public helloWorld(){
-        
-    }
 }
